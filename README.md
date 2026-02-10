@@ -1,4 +1,4 @@
-# Google-Sheets-Supabase-Near-Real-Time-Sync
+# Google-Sheets-Supabase-Real-Time-Sync
 **1.Project Description**
 
 A robust, automated bi-directional synchronization system that seamlessly connects Google Sheets with a Supabase PostgreSQL database for managing employee contact information.
